@@ -15,25 +15,26 @@
 ---
 
 ### 🔗 Connect With Me
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adityakumarkushwaha)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/aditya-kumar-kushwaha-755911327/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakumarkushwaha021@gmail.com)
+<a href="https://github.com/adityakumarkushwaha" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="50">
+</a>  <a href="https://www.linkedin.com/in/www.linkedin.com/in/aditya-kumar-kushwaha-755911327/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50">
+</a> <a href="mailto:adityakumarkushwa021@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50">
+</a>
+
 
 ---
 
 ## 🏅 Tech & Skills Badges
 
 ### 🚀 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70">       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="70" height="70">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="70" height="70">  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="70"> 
 ### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45">                 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" width="60">  <img src="https://matplotlib.org/_static/logo_dark.svg" alt="Matplotlib" width="70">  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" alt="Seaborn" width="70">
+
 
 
 
